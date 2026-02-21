@@ -29,3 +29,4 @@ Physics background → Data Science → AI Engineering. I love building intellig
 - 🌐 [ruudhendrikx.nl](https://ruudhendrikx.nl)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rjghx/)
 - 🐦 [@rjghendrikx](https://twitter.com/rjghendrikx)
+
